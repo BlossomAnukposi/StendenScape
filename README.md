@@ -20,3 +20,9 @@ If you found an issue or would like to submit an improvment to this game, please
 
 This game still ongoing. The game sitll still need to make it to Web version, we are working on it.
 It will coming soon!
+
+## External resources use in StendenScape
+
+1. Unity external (pre-biuld) assets
+2. Photon
+3. ReadyPlayerMe
